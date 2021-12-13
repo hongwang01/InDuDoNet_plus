@@ -16,10 +16,10 @@ Refer to [InDuDoNet](https://github.com/hongwang01/InDuDoNet)
 ## Citations
 
 ```
-@inproceedings{wang2021indudonet,
+@inproceedings{wang2021indudonetplus,
   title={InDuDoNet+: A Model-Driven Interpretable Dual Domain Network for Metal Artifact Reduction in CT Images},
   author={Wang, Hong and Li, Yuexiang and Zhang, Haimiao and Meng, Deyu and Zheng, Yefeng},
-  booktitle={A},
+  booktitle={Arxiv},
   year={2021},
 }
 ```
