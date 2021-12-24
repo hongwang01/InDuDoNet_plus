@@ -1,7 +1,7 @@
 # InDuDoNet+: A Model-Driven Interpretable Dual Domain Network for Metal Artifact Reduction in CT Images
 [Hong Wang](https://hongwang01.github.io/), Yuexiang Li, Haimiao Zhang, [Deyu Meng](http://gr.xjtu.edu.cn/web/dymeng), [Yefeng Zheng](https://sites.google.com/site/yefengzheng/)
 
-[[Arxiv]] Coming Soon ！
+[[Arxiv]](https://arxiv.org/pdf/2112.12660.pdf)
 
 The conference paper is [InDuDoNet(MICCAI2021)](https://github.com/hongwang01/InDuDoNet)
 
