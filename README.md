@@ -12,7 +12,7 @@ During the computed tomography (CT) imaging process, metallic implants within pa
 Refer to [InDuDoNet](https://github.com/hongwang01/InDuDoNet)
 
 ## Dataset & Training & Testing
-Refer to [InDuDoNet](https://github.com/hongwang01/InDuDoNet)
+Refer to [InDuDoNet](https://github.com/hongwang01/InDuDoNet) for the settings. 
 
 
 ## Citations
