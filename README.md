@@ -11,7 +11,7 @@ During the computed tomography (CT) imaging process, metallic implants within pa
 ## Motivation
 <div  align="center"><img src="figs/motivation.jpg" height="100%" width="100%" alt=""/></div>
 
-##Knowledge-Driven Prior-net
+## Knowledge-Driven Prior-net
 
 <div  align="center"><img src="figs/priornet.jpg" height="100%" width="100%" alt=""/></div>
 
@@ -33,8 +33,6 @@ CUDA_VISIBLE_DEVICES=0 python train.py --data_path "deeplesion/train/" --log_dir
 ```
 CUDA_VISIBLE_DEVICES=0 python test_deeplesion.py --data_path "deeplesion/test/" --model_dir "pretrained_model/" --save_path "results/deeplesion/" 
 ```
-
-
 
 
 ## Experiments on Synthesized Data
