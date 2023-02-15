@@ -47,11 +47,13 @@ CUDA_VISIBLE_DEVICES=0 python test_deeplesion.py --data_path "deeplesion/test/" 
 ## Citations
 
 ```
-@article{wang2021indudonetplus,
-  title={InDuDoNet+: A Deep Unfolding Dual Domain Network for Metal Artifact Reduction in CT Images},
+@article{wang2023indudonet+,
+  title={InDuDoNet+: A deep unfolding dual domain network for metal artifact reduction in CT images},
   author={Wang, Hong and Li, Yuexiang and Zhang, Haimiao and Meng, Deyu and Zheng, Yefeng},
-  journal={Medical image analysis},
-  year={2022},
+  journal={Medical Image Analysis},
+  volume={85},
+  pages={102729},
+  year={2023}
 }
 ```
 
