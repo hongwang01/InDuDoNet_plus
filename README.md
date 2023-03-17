@@ -22,6 +22,7 @@ Refer to [InDuDoNet](https://github.com/hongwang01/InDuDoNet)
 ## Dataset & Training & Testing
 Refer to [InDuDoNet](https://github.com/hongwang01/InDuDoNet) for the settings. 
 
+Synthesized DeepLesion can be downloaded from https://github.com/hongwang01/SynDeepLesion.
 
 ## Training
 ```
