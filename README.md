@@ -36,7 +36,7 @@ CUDA_VISIBLE_DEVICES=0 python test_deeplesion.py --data_path "deeplesion/test/" 
 ```
 
 ## Performance Evaluation 
-Please refer to [OSCNet][https://github.com/hongwang01/OSCNet/tree/main/metric)
+Please refer to [OSCNet](https://github.com/hongwang01/OSCNet/tree/main/metric)
 
 ## Experiments on Synthesized Data
 <div  align="center"><img src="figs/deeplesion_boxplot.jpg" height="100%" width="100%" alt=""/></div>
